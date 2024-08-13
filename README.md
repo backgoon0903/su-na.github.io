@@ -31,6 +31,7 @@
 <div class="cotainer">
     <div class="menu">
         <ul>
+            <h1>터치하시오</h1>
             <button><li onclick="showMenu('b1')">수진</li></button>
             <button><li onclick="showMenu('b2')">나경</li></button>
         </ul>
